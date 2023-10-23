@@ -1,7 +1,7 @@
-### Hi👋, This is 我也很无奈 @sheep9u
+### Hi👋, This is Twisted Fate @sheep9u
 # Welcome to My GitHub Profile!
 
-Hello there! 👋 I'm [我也很无奈](https://www.github.com/sheep9u), and I'm excited to have you here on my GitHub profile. This is where I showcase some of my projects, share my coding journey, and connect with fellow developers and enthusiasts like you.
+Hello there! 👋 I'm [Twisted Fate](https://www.github.com/sheep9u), and I'm excited to have you here on my GitHub profile. This is where I showcase some of my projects, share my coding journey, and connect with fellow developers and enthusiasts like you.
 
 ## About Me
 
@@ -28,14 +28,6 @@ In this section, you'll find some of the projects I've worked on. Each project c
 - [Project 2](https://github.com/YourUsername/Project2): Another exciting project that I've enjoyed working on.
 
 - [Project 3](https://github.com/YourUsername/Project3): You get the idea, right? Each project is unique and reflects my passion for learning and experimenting.
-
-## Get in Touch
-
-I'm always open to collaborations, discussions, and making new friends in the developer community. Feel free to reach out to me if you have any questions, suggestions, or if you just want to say hi. You can connect with me via:
-
-- Telegram: [https://t.me/sheepnine](https://t.me/sheepnine)
-- Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
 
 ## Let's Code Together!
 
