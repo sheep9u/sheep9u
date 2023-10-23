@@ -19,11 +19,11 @@ In this section, I'll tell you a bit about myself. I am a passionate software de
 
 ## My Projects
 
-- [Project 1](https://github.com/YourUsername/Project1): A brief description of the project and what makes it interesting.
+- [Project 1](https://github.com/YourUsername/Project1)
 
-- [Project 2](https://github.com/YourUsername/Project2): Another exciting project that I've enjoyed working on.
+- [Project 2](https://github.com/YourUsername/Project2)
 
-- [Project 3](https://github.com/YourUsername/Project3): You get the idea, right? Each project is unique and reflects my passion for learning and experimenting.
+- [Project 3](https://github.com/YourUsername/Project3)
 
 ## Let's Code Together!
 
