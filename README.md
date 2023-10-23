@@ -9,19 +9,15 @@ In this section, I'll tell you a bit about myself. I am a passionate software de
 
 ## My Interests
 
-As a developer, I love to work on a diverse range of projects. Some of my key interests include:
+- **Web Development**
 
-- **Web Development**: Crafting responsive and visually appealing websites and web applications using HTML, CSS, and JavaScript is something I find enjoyable.
+- **App Development**
 
-- **App Development**: I have experience in developing mobile applications for both Android and iOS platforms, using technologies like React Native and Flutter.
+- **Blockchain**
 
-- **Machine Learning**: Exploring the exciting field of machine learning and AI, I've worked on projects that involve data analysis, computer vision, and natural language processing.
-
-- **Open Source**: I'm a strong believer in the power of open-source collaboration. I actively contribute to various open-source projects and believe in giving back to the developer community.
+- **Open Source**
 
 ## My Projects
-
-In this section, you'll find some of the projects I've worked on. Each project comes with a detailed README that provides information about the project's purpose, features, and instructions on how to set it up and use it.
 
 - [Project 1](https://github.com/YourUsername/Project1): A brief description of the project and what makes it interesting.
 
