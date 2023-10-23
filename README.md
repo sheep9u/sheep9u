@@ -33,7 +33,7 @@ In this section, you'll find some of the projects I've worked on. Each project c
 
 I'm always open to collaborations, discussions, and making new friends in the developer community. Feel free to reach out to me if you have any questions, suggestions, or if you just want to say hi. You can connect with me via:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Telegram: [https://t.me/sheepnine](https://t.me/sheepnine)
 - Twitter: [@YourTwitterHandle](https://twitter.com/YourTwitterHandle)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
 
