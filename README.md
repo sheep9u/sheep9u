@@ -1,7 +1,7 @@
 ### Hi👋, This is 我也很无奈 @sheep9u
 # Welcome to My GitHub Profile!
 
-Hello there! 👋 I'm [九只小羊](https://www.github.com/sheep9u), and I'm excited to have you here on my GitHub profile. This is where I showcase some of my projects, share my coding journey, and connect with fellow developers and enthusiasts like you.
+Hello there! 👋 I'm [我也很无奈](https://www.github.com/sheep9u), and I'm excited to have you here on my GitHub profile. This is where I showcase some of my projects, share my coding journey, and connect with fellow developers and enthusiasts like you.
 
 ## About Me
 
