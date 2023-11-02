@@ -1,4 +1,4 @@
-### Hi👋, This is Twisted Fate @sheep9u
+### Hi👋, This is Twisted Fate
 # Welcome to My GitHub Profile!
 
 Hello there! 👋 I'm [Twisted Fate](https://www.github.com/sheep9u), and I'm excited to have you here on my GitHub profile. This is where I showcase some of my projects, share my coding journey, and connect with fellow developers and enthusiasts like you.
