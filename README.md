@@ -3,7 +3,7 @@ Hello there! 👋 I'm [Twisted Fate](https://www.github.com/sheep9u), and I'm ex
 
 ## About Me
 
-In this section, I'll tell you a bit about myself. I am a passionate software developer with a keen interest in building innovative solutions and exploring new technologies. My journey in the world of coding began [mention how it started and what inspired you to become a developer].
+I am a bachelor's degree graduate in computer science and technology. I hope to communicate more with you.
 
 ## My Interests
 
