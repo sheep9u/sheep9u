@@ -3,7 +3,7 @@ Hello there! 👋 I'm [Twisted Fate](https://www.github.com/sheep9u), and I'm ex
 
 ## About Me
 
-I am a bachelor's degree graduate in computer science and technology. I hope to communicate more with you.
+I am a bachelor's degree graduate in computer science and technology. 
 
 ## My Interests
 
